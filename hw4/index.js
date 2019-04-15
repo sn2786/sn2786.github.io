@@ -12,7 +12,9 @@ const examples = {
   'example2':
       "Buda-Pesth seems a wonderful place.",
   'example3':
-      "Scepticism was as much the result of knowledge, as knowledge is of scepticism.",
+      "It has been an easy, and a popular expedient, of late years, to deny the
+personal or real existence of men and things whose life and condition were
+too much for our belief.",
   'example4':
       "The fact that failure of memory by no means proves the absence of dreaming may be illustrated, not only by the forgetfulness of what takes place during hypnotic sleep, but by what we sometimes witness during partial anaesthesia maintained by drugs."
 };
