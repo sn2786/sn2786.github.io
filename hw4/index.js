@@ -12,8 +12,7 @@ const examples = {
   'example2':
       "Buda-Pesth seems a wonderful place.",
   'example3':
-      "According to this document, the city of Cumae in Ćolia, was, at an early
-period, the seat of frequent immigrations from various parts of Greece.",
+      "According to this document, the city of Cumae in Ćolia, was, at an early period, the seat of frequent immigrations from various parts of Greece.",
   'example4':
       "The fact that failure of memory by no means proves the absence of dreaming may be illustrated, not only by the forgetfulness of what takes place during hypnotic sleep, but by what we sometimes witness during partial anaesthesia maintained by drugs."
 };
