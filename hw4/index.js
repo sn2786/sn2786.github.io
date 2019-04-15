@@ -14,7 +14,7 @@ const examples = {
   'example3':
       "Scepticism was as much the result of knowledge, as knowledge is of scepticism.",
   'example4':
-      "The craving for reasons is instinctive, and the dreamer's sense of logic even dominates his sense of time."
+      "The fact that failure of memory by no means proves the absence of dreaming may be illustrated, not only by the forgetfulness of what takes place during hypnotic sleep, but by what we sometimes witness during partial anaesthesia maintained by drugs."
 };
 
 function status(statusText) {
