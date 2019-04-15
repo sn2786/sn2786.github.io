@@ -12,9 +12,8 @@ const examples = {
   'example2':
       "Buda-Pesth seems a wonderful place.",
   'example3':
-      "It has been an easy, and a popular expedient, of late years, to deny the
-personal or real existence of men and things whose life and condition were
-too much for our belief.",
+      "According to this document, the city of Cumae in Ćolia, was, at an early
+period, the seat of frequent immigrations from various parts of Greece.",
   'example4':
       "The fact that failure of memory by no means proves the absence of dreaming may be illustrated, not only by the forgetfulness of what takes place during hypnotic sleep, but by what we sometimes witness during partial anaesthesia maintained by drugs."
 };
