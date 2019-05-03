@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Color Predictor in Browser</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<link rel="stylesheet" type="text/css" href="color_predictor.css"/>
+<!-- <script type="text/javascript" src="color_predictor.js"></script>
+ -->
+</head>
+
+<body>
+<h2>Color Predictor</h2>
+  <div class="create-model">
+    <button id="load-model" style="display:none">Load model</button>
+    <span>Color: </span>
+    <input type="text" id="text-entry" size="30"/>
+    <input type="button" id="btn" value="Display"/>
+    <hr>
+    <span id="status">Standing by.</span>
+  </div>
+<div id="message">Input is invalid!</div>
+<div id="view"></div>
+
+  <script src='https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js'></script>
+  <script src='color_predictor.js'></script>
+</body>
+</html>
